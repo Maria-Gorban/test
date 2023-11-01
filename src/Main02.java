@@ -9,8 +9,11 @@ public class Main02 {
   }
 
   public static void main(String[] args) {
-    int[] arr = {1, 5, 3, 9, 6};
+
+    int[] arr = {6,9,8,1,2};
     System.out.println("Число из заданного массива: ");
+
+
     System.out.println(concatArray(arr));
   }
 }
