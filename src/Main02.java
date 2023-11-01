@@ -9,7 +9,7 @@ public class Main02 {
   }
 
   public static void main(String[] args) {
-    int[] arr = {3, 4, 7, 8, 2};
+    int[] arr = {6,9,8,1,2};
     System.out.println(concatArray(arr));
   }
 }
